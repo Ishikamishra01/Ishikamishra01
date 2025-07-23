@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ishikamishra01">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Engineering+Graduate+(2025); Cloud+%7C+Web+Developer+%7C+AI+Explorer;Always+learning+%26+building+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Engineering%20Graduate%20(2025);Cloud%20%7C%20Web%20Developer%20%7C%20AI%20Explorer;Always%20learning%20%26%20building%20%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
 
