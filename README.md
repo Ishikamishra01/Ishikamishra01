@@ -1,5 +1,6 @@
 ## Hi there 👋
 https://github-readme-stats.vercel.app/api?username=Ishikamishra01
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishikamishra01&show_icons=true&theme=radical)
 
 
 <!--
