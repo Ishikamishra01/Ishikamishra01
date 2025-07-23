@@ -1,6 +1,4 @@
-## Hi there 👋
-https://github-readme-stats.vercel.app/api?username=Ishikamishra01
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishikamishra01&show_icons=true&theme=radical)
+
 
 <h1 align="center">Hi 👋, I'm Ishika Mishra</h1>
 
@@ -14,7 +12,7 @@ https://github-readme-stats.vercel.app/api?username=Ishikamishra01
 
 ### 👩‍💻 About Me
 
-🎓 I'm a **Final Year B.Tech (IT)** student from **Inderprastha Engineering College, Ghaziabad**.  
+🎓 I'm a ** B.Tech (IT)** student from **Inderprastha Engineering College, Ghaziabad(2025 batch)**.  
 💡 Passionate about **Web Development**, **Cloud Tech**, and solving real-world problems with code.  
 🚀 Actively exploring **AI + Full Stack** and building scalable, real-time apps.  
 🎯 Currently improving my **DSA**, and diving deeper into **React Native** & **Firebase**.
