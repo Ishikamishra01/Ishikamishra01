@@ -1,10 +1,8 @@
-
-
 <h1 align="center">Hi 👋, I'm Ishika Mishra</h1>
 
 <p align="center">
   <a href="https://github.com/Ishikamishra01">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Final+Year+IT+Student;Cloud+%7C+Web+Developer+%7C+AI+Explorer;Always+learning+%26+building+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Engineering+Graduate+(2025);Cloud+%7C+Web+Developer+%7C+AI+Explorer;Always+learning+%26+building+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,10 +10,10 @@
 
 ### 👩‍💻 About Me
 
-🎓 I'm a ** B.Tech (IT)** student from **Inderprastha Engineering College, Ghaziabad(2025 batch)**.  
-💡 Passionate about **Web Development**, **Cloud Tech**, and solving real-world problems with code.  
-🚀 Actively exploring **AI + Full Stack** and building scalable, real-time apps.  
-🎯 Currently improving my **DSA**, and diving deeper into **React Native** & **Firebase**.
+🎓 I'm a **B.Tech (Information Technology)** graduate from **Inderprastha Engineering College, Ghaziabad**, batch of **June 2025**.  
+💡 Passionate about **Web Development**, **Cloud Computing**, and building practical tech-driven solutions.  
+🚀 Currently diving deeper into **AI + Full Stack Development**, and actively building real-time, scalable applications.  
+🎯 Always exploring new technologies and striving to improve my **DSA and system design skills**.
 
 ---
 
@@ -61,18 +59,3 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<!--
-**Ishikamishra01/Ishikamishra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
